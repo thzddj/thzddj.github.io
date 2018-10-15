@@ -140,11 +140,11 @@ h2.resp-accordion {
 	height:30px;
 }
 .wthree_tab_content_pos1 ul li a.facebook{
-	background:url(../images/img-sp.png) no-repeat -75px -33px #3b5998;
+	background:url(../images/icon-x.png) no-repeat -9px -52px #3b5998;
 	display:block;
 }
 .wthree_tab_content_pos1 ul li a.twitter{
-	background:url(../images/img-sp.png) no-repeat 1px -33px #55acee;
+	background:url(../images/icon-x.png) no-repeat -56px -5px #55acee;
 	display:block;
 }
 .wthree_tab_content_pos1 ul li a.g{
@@ -152,11 +152,11 @@ h2.resp-accordion {
 	display:block;
 }
 .wthree_tab_content_pos1 ul li a.facebook:hover{
-	background:url(../images/img-sp.png) no-repeat -75px -33px #2C4374;
+	background:url(../images/icon-x.png) no-repeat -9px -52px #2C4374;
 	display:block;
 }
 .wthree_tab_content_pos1 ul li a.twitter:hover{
-	background:url(../images/img-sp.png) no-repeat 1px -33px #3B93D7;
+	background:url(../images/icon-x.png) no-repeat -56px -5px #3B93D7;
 	display:block;
 }
 .wthree_tab_content_pos1 ul li a.g:hover{
